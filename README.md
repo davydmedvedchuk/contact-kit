@@ -2,6 +2,8 @@
 
 ![Contact kit](docs/banner.jpg)
 
+> **Test version.** This app is live, but I have not checked it myself yet. If you want to use it, keep that in mind.
+
 Call, WhatsApp, Telegram and email buttons with a ready message, plus a map that loads only when someone taps it. One JavaScript file, about 4 KB gzipped, no dependencies. Made for small business sites that have to be fast on a phone.
 
 **Generator:** open `index.html` (or the GitHub Pages link of this repo), fill in the form, copy the snippet.
